@@ -11,5 +11,5 @@ import org.junit.runner.RunWith;
         tags= "@objectMapper",
         dryRun= false
 )
-public class Runner { 
+public class Runner {
 }
