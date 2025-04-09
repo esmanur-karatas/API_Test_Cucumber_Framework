@@ -5,84 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79cd3e69-cee4-4871-9f64-711e91308181" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/src/test/java/runner/ReRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hooks/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hooks/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/patch/Patch_Pojo_Authorizarion_StepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/patch/Patch_Pojo_Authorizarion_StepDefinition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/xml/Get_XML_StepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/xml/Get_XML_StepDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/delete/delete_Assert_Header.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/delete/delete_Assert_Header.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/delete/delete_Assert_Message.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/delete/delete_Assert_Message.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/baseUrl/Faker_BaseUrl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/baseUrl/Gorest_BaseUrl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/baseUrl/Herokuapp_BaseUrl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/baseUrl/Herokuapp_BaseUrl_Authentication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/baseUrl/Herokuapp_XML_BaseUrl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/baseUrl/JsonPlaceHolder_BaseUrl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/baseUrl/PetStore_BaseUrl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/baseUrl/PetStore_BaseUrl_XML.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/baseUrl/PetStore_BaseUrl_XML_Post_Jsoup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/baseUrl/Reqres_BaseUrl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/delete/delete_Assert_Header.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/delete/delete_Assert_Message.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/get/get_JsonPath_GetList_Assertion.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/patch/patch_Map_If_TestData.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/patch/patch_ObjectMapperUtils_Map.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/patch/patch_Pojo_Authorization.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/post/post_Map.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/post/post_ObjectMapper_String_Map.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/post/post_String.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/post/post_TestData_Map.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/put/put_02_Pojo.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/put/put_Authentication_TestData_Map.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/put/put_Map_ObjectMapperUtils.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/put/put_Pojo.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/put/put_Pojo_List_Map.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/xml/get_XML.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/xml/post_XML_Map_Jsoup.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/xml/post_XML_Pojo.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/hooks/Hooks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pojo/Faker_Books_Pojo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pojo/Faker_Pojo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pojo/Gorest_Pojo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pojo/HerokuApp/BookingDates_Pojo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pojo/HerokuApp/HerokuApp_Pojo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pojo/HerokuApp/Heroku_Patch_XML_Pojo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pojo/PetStore/JSON/Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pojo/PetStore/JSON/Root.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pojo/PetStore/JSON/Tag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pojo/PetStore/PetStore_User_Pojo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pojo/PetStore/XML/Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pojo/PetStore/XML/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pojo/PetStore/XML/PhotoUrls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pojo/PetStore/XML/Tag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pojo/PetStore/XML/Tags.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/runner/Runner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/delete/Delete_Assert_Header_Step_Definition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/delete/Delete_Assert_Message_Step_Definition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/get/get_JsonPath_GetList_Assertion_StepDefinition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/patch/Patch_Map_If_TestData_StepDefinition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/patch/Patch_ObjectMapperUtils_Map_StepDefinition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/patch/Patch_Pojo_Authorizarion_StepDefinition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/post/Post_Map_StepDefinition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/post/Post_ObjectMapper_String_Map_StepDefinition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/post/Post_String_StepDef.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/post/Post_TestData_Map_StepDefinition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/put/Put_Authentication_TestData_Map_StepDefinition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/put/Put_Map_ObjectMapperUtils_StepDefination.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/put/Put_Pojo_Authorization.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/put/Put_Pojo_List_Map_StepDefinition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/put/Put_Pojo_StepDefinition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/xml/Get_XML_StepDefinition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/xml/Post_XML_Map_Jsoup_StepDefinition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/xml/Post_XML_Pojo_StepDefinition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Authentication_HerokuApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Herokuapp_TestData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/JsonPlaceHolder_TestData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ObjectMapperUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports/cucumber.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +65,9 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="runner" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Huawei\Desktop\TestProject\API_Test_Cucumber_Framework" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Huawei\Desktop\TestProject\API_Test_Cucumber_Framework\src\test\resources" />
@@ -281,22 +209,19 @@
       <option name="project" value="LOCAL" />
       <updated>1743868493677</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="initial">
+      <option name="closed" value="true" />
+      <created>1744198476536</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744198476536</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
     <option name="LAST_COMMIT_MESSAGE" value="initial" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/runner/Runner.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

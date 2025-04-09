@@ -60,13 +60,13 @@ public class Get_XML_StepDefinition {
                 .statusLine("HTTP/1.1 200 OK");
 
         XmlPath xmlPath= response.xmlPath();
-        assertEquals("Mary", xmlPath.getString("booking.firstname"));
-        assertEquals("Ericsson", xmlPath.getString("booking.lastname"));
-        assertEquals(673, xmlPath.getInt("booking.totalprice"));
+        assertEquals("Jim", xmlPath.getString("booking.firstname"));
+        assertEquals("Jackson", xmlPath.getString("booking.lastname"));
+        assertEquals(549, xmlPath.getInt("booking.totalprice"));
         assertEquals(false, xmlPath.getBoolean("booking.depositpaid"));
         // assertEquals("Breakfast", xmlPath.getString("booking.additionalneeds"));
-        assertEquals("2024-02-14", xmlPath.getString("booking.bookingdates.checkin"));
-        assertEquals("2024-06-13", xmlPath.getString("booking.bookingdates.checkout"));
+        assertEquals("2015-10-19", xmlPath.getString("booking.bookingdates.checkin"));
+        assertEquals("2019-12-07", xmlPath.getString("booking.bookingdates.checkout"));
 
     }
 }
