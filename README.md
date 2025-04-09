@@ -119,3 +119,10 @@ mvn verify
 ## ⚠️ Lisans
 
 Bu proje açık kaynaklıdır ve MIT lisansı ile lisanslanmıştır.
+
+
+
+https://github.com/user-attachments/assets/fe20ed6a-e22e-4dde-aad1-98111ae37ba8
+
+
+
