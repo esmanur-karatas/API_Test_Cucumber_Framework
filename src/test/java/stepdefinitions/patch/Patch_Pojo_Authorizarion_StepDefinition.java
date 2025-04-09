@@ -30,8 +30,8 @@ THEN
     Status code should be 200
     And response body should be
     {
-        "firstname" : "Maho",
-        "lastname" : "Maho",
+        "firstname" : "Jim",
+        "lastname" : "Brown",
         "totalprice" : 111,
         "depositpaid" : true,
         "bookingdates" : {
@@ -56,7 +56,7 @@ THEN
     public void expectedDataOlusur() {
         //2- set the expected data
         BookingDates_Pojo bookingDatesPojo = new BookingDates_Pojo(null, null);
-        expectedData = new HerokuApp_Pojo("Maho", "Ağa", null, null, bookingDatesPojo, null);
+        expectedData = new HerokuApp_Pojo("Jim", "Brown", null, null, bookingDatesPojo, null);
     }
 
     @When("request gonderilir ve response alinir")

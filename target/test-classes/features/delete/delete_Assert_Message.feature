@@ -1,4 +1,4 @@
-@delete
+@paralel
 Feature: delete
 
   Scenario: delete

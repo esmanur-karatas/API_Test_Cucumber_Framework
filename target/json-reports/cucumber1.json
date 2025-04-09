@@ -1,0 +1,87 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2025-04-09T11:24:37.032Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1835489200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooks.Hooks.before()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "get JsonPath",
+        "description": "",
+        "id": "get-jsonpath;get-jsonpath",
+        "after": [
+          {
+            "result": {
+              "duration": 1999700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooks.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "jsonplaceholder sitesinde gidilir",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "get yapilir",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "body assert edilir",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@get"
+          }
+        ]
+      }
+    ],
+    "name": "get JsonPath",
+    "description": "",
+    "id": "get-jsonpath",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/get/get_JsonPath_GetList_Assertion.feature",
+    "tags": [
+      {
+        "name": "@get",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

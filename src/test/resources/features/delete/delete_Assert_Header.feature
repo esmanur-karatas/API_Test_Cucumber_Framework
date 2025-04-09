@@ -1,4 +1,4 @@
-@assertHeader
+@paralel
 Feature: header
 
   Scenario: header

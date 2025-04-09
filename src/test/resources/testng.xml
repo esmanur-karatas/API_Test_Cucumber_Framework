@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test Suite" parallel="tests" thread-count="13">
+    <test name="AssertDatum Test Report">
+        <classes>
+            <class name="stepdefinitions.get.get_JsonPath_GetList_Assertion_StepDefinition"/>
+        </classes>
+    </test>
+    <test name="BaseUrl Test Report">
+        <classes>
+            <class name="stepdefinitions.post.Post_TestData_Map_StepDefinition"/>
+        </classes>
+    </test>
+</suite>
